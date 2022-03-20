@@ -1,6 +1,6 @@
 # Calculator App
 
-First ver:1.0.0
+First ver: 1.0.0
 
 A simple calculator app made witd Android Studio
 
